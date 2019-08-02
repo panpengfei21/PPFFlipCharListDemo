@@ -1,0 +1,20 @@
+PODS:
+  - PPFEquableItemsView (0.0.2)
+  - PPFFlipChar (0.0.2)
+
+DEPENDENCIES:
+  - PPFEquableItemsView (~> 0.0.2)
+  - PPFFlipChar (~> 0.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PPFEquableItemsView
+    - PPFFlipChar
+
+SPEC CHECKSUMS:
+  PPFEquableItemsView: daa83f694ab8d2ab75cfbcadc79d16d682a58667
+  PPFFlipChar: fadaa7e2c2ba025c9d4048b7683c8ebd78f4e989
+
+PODFILE CHECKSUM: 55d8593ae755da5a52722440ee9044791235979b
+
+COCOAPODS: 1.7.2

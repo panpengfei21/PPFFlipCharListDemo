@@ -1,0 +1,6 @@
+framework module PPFFlipChar {
+  umbrella header "PPFFlipChar-umbrella.h"
+
+  export *
+  module * { export * }
+}
