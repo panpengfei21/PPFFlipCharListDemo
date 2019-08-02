@@ -1,4 +1,4 @@
-# PPFFlipChar
+# PPFFlipStringView
 
 ## 效果
 ![翻牌字符串](https://upload-images.jianshu.io/upload_images/2261768-0ca20dc95ecbc1c0.gif?imageMogr2/auto-orient/strip)
